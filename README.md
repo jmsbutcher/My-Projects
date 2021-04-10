@@ -16,5 +16,5 @@ jmsbutcher1576@gmail.com
 
 ### Personal Projects
 
-- <a href="https://github.com/jmsbutcher/mastermind">**Mastermind**</a> - A text-based recreation of the code-breaking board game Mastermind - **Java** - 2013
+- <a href="https://github.com/jmsbutcher/mastermind">**Mastermind**</a> - [**Java**] - 2013 - A text-based recreation of the code-breaking board game Mastermind
 

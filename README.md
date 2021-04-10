@@ -2,24 +2,19 @@
 Navigation page for all of my programming projects
 
 James Butcher
+
 jmsbutcher1576@gmail.com
 
 ### Academic Course Projects 
 
-<ul>
 
 
 
-</ul>
 
 <br>
 <br>
 
 ### Personal Projects
 
-<ul>
+- <a href="https://github.com/jmsbutcher/mastermind">**Mastermind**</a> - A text-based recreation of the code-breaking board game Mastermind - **Java** - 2013
 
-
-
-</ul>
-**

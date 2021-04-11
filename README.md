@@ -18,19 +18,21 @@ jmsbutcher1576@gmail.com
 
 - <a href="https://github.com/jmsbutcher/mastermind">**Mastermind**</a> - (2013) - [**Java**] - A text-based recreation of the code-breaking board game Mastermind
 
-- <a href="https://github.com/jmsbutcher/A-demon-in-conways-game-of-life">**A Demon In Conway's Game of Life** \***</a> - (2019) - [**Python, Pytorch, Numpy, Matplotlib, Tkinter**] - Conway’s Game of Life as a highly customizable GUI-based environment for developing and testing artificial intelligence models
+- <a href="https://github.com/jmsbutcher/self-driving-car">**Self-Driving Car</a> - (2019) - [**Python, Pytorch, Numpy, Kivy**] - A deep-reinforcement-learning agent (car) that learns to drive across a map while avoiding obstacles
 
-- <a href="https://github.com/jmsbutcher/inflation_predictor">**Inflation Predictor**</a> - (2020) - [**Python, Numpy, Matplotlib, Tkinter, Scikit-learn**] - A Python app that tracks, analyzes, and predicts future trends of ordinary consumer products using machine learning
+- <a href="https://github.com/jmsbutcher/A-demon-in-conways-game-of-life">**A Demon In Conway's Game of Life**</a>\*** - (2019) - [**Python, Pytorch, Numpy, Matplotlib, Tkinter**] - Conway’s Game of Life as a highly customizable GUI-based environment for developing and testing artificial intelligence models
+
+- <a href="https://github.com/jmsbutcher/inflation_predictor">**Inflation Predictor**</a>\*** - (2020) - [**Python, Numpy, Matplotlib, Tkinter, Scikit-learn**] - A Python app that tracks, analyzes, and predicts future trends of ordinary consumer products using machine learning
 
 - <a href="https://github.com/jmsbutcher/acronym-extractor">**Acronym Extractor**</a> - (2020) - [**Python**] - A simple python app that extracts all the acronyms and their corresponding meanings from a PDF file and prints them neatly for easy reference while reading
 
 - <a href="https://github.com/jmsbutcher/digit_classifier_dropout">**Digit Classifier - Dropout**</a> - (2020) - [**Python, Pytorch, Numpy, Matplotlib, Jupyter Notebook**] - Practice implementing a CNN classifier on the MNIST dataset - test out dropout vs. no dropout
 
-- <a href="https://github.com/jmsbutcher/book-database-alexa-skill">**Book Database Alexa Skill**</a> - (2020) - [**Python, MySQL, AWS RDS, AWS Lambda, Alexa Skill Development Kit**] - An Amazon Alexa skill that manages my own custom MySQL cloud database of books I've read hosted on AWS RDS (Relational Database Service) via verbal commands
+- <a href="https://github.com/jmsbutcher/book-database-alexa-skill">**Book Database Alexa Skill**</a>\*** - (2020) - [**Python, MySQL, AWS RDS, AWS Lambda, Alexa Skill Development Kit**] - An Amazon Alexa skill that manages my own custom MySQL cloud database of books I've read hosted on AWS RDS (Relational Database Service) via verbal commands
 
-- <a href="https://github.com/jmsbutcher/machine-learning-knowledge-base">**Machine Learning Knowledge Base**</a> - (2021) - [**Python, HTML, Javascript, Bootstrap, Flask, RDFlib**] - A web app for managing and accessing my personally-curated collection of machine learning knowledge, encoded as an RDF knowledge graph
+- <a href="https://github.com/jmsbutcher/machine-learning-knowledge-base">**Machine Learning Knowledge Base**</a>\*** - (2021) - [**Python, HTML, Javascript, Bootstrap, Flask, RDFlib**] - A web app for managing and accessing my personally-curated collection of machine learning knowledge, encoded as an RDF knowledge graph
 
 <br>
 
-\*** - These are the large projects whose overall design I created myself
+\*** - These are the large projects whose overall design I created myself. The rest are either small projects or projects that mostly followed a tutorial.
 

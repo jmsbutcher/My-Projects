@@ -22,6 +22,7 @@ jmsbutcher1576@gmail.com
 
 #### CSE 579 - Knowledge Representation and Reasoning - Spring A 2021:
 
+- <a href="https://github.com/jmsbutcher/ASP-for-Automated-Warehouse-Scenario">**ASP for Automated Warehouse Scenario**</a> - (2021) - [**Clingo**] - An attempted solution to the 2019 ASP challenge: Automated Warehouse Scenario
 
 
 <br>

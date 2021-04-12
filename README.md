@@ -19,6 +19,8 @@ jmsbutcher1576@gmail.com
 
 - <a href="https://github.com/jmsbutcher/Neural-Network-for-Collision-Prediction">**Neural Network for Collision Prediction**</a> - (2020) - [**Python, Pytorch, Numpy**] - A virtual robot with a neural network that steers around a virtual environment using supervised learning to predict whether a collision is about to occur or not
 
+- <a href="https://github.com/jmsbutcher/Tools-for-Sequential-Decision-Making">**Tools for Sequential Decision-Making**</a> - (2020) - [**PDDL**] - Solve a set of planning problems using Planning Domain Definition Language (PDDL)
+
 
 #### CSE 579 - Knowledge Representation and Reasoning - Spring A 2021:
 

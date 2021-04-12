@@ -5,21 +5,28 @@ James Butcher
 
 jmsbutcher1576@gmail.com
 
-### Academic Course Projects
+## Academic Course Projects
 
-#### CSE 575 - Statistical Machine Learning - Fall A 2020
+#### CSE 575 - Statistical Machine Learning - Fall A 2020:
 
 - <a href="https://github.com/jmsbutcher/Naive-Bayes-Digit-Classifier">**Naive Bayes Digit Classifier**</a> - (2020) - [**Python, Numpy, Scipy**] - A Naive Bayes Classifier of Handwritten Digits 0 or 1 based on average pixel brightness and standard deviation
 
 - <a href="https://github.com/jmsbutcher/K-means-clustering-project">**K-Means Clustering Project**</a> - (2020) - [**Python, Numpy, Matplotlib**] - Course project to implement K-means clustering on a 2D dataset and compare two different initialization strategies
 
-#### CSE 571 - Artificial Intelligence - Fall B 2020
+#### CSE 571 - Artificial Intelligence - Fall B 2020:
+
+- <a href="https://github.com/jmsbutcher/Bayesian-networks-project">**Bayesian Networks Project**</a> - (2020) - [**Python, Pgmpy**] - A project for implementing (1) a Bayesian Network and (2) a Dynamic Bayesian Network
+
+
+
+#### CSE 579 - Knowledge Representation and Reasoning - Spring A 2021:
+
 
 
 <br>
 <br>
 
-### Personal Projects
+## Personal Projects
 
 - <a href="https://github.com/jmsbutcher/mastermind">**Mastermind**</a> - (2013) - [**Java**] - A text-based recreation of the code-breaking board game Mastermind
 

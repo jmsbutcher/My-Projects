@@ -7,7 +7,7 @@ jmsbutcher1576@gmail.com
 
 ### Academic Course Projects 
 
-
+- <a href="https://github.com/jmsbutcher/Naive-Bayes-Digit-Classifier">**Naive Bayes Digit Classifier**</a> - (2020) - [**Python, Numpy, Scipy**] - A Naive Bayes Classifier of Handwritten Digits 0 or 1 based on average pixel brightness and standard deviation
 
 
 
@@ -18,7 +18,7 @@ jmsbutcher1576@gmail.com
 
 - <a href="https://github.com/jmsbutcher/mastermind">**Mastermind**</a> - (2013) - [**Java**] - A text-based recreation of the code-breaking board game Mastermind
 
-- <a href="https://github.com/jmsbutcher/self-driving-car">**Self-Driving Car</a> - (2019) - [**Python, Pytorch, Numpy, Kivy**] - A deep-reinforcement-learning agent (car) that learns to drive across a map while avoiding obstacles
+- <a href="https://github.com/jmsbutcher/self-driving-car">**Self-Driving Car**</a> - (2019) - [**Python, Pytorch, Numpy, Kivy**] - A deep-reinforcement-learning agent (car) that learns to drive across a map while avoiding obstacles
 
 - <a href="https://github.com/jmsbutcher/A-demon-in-conways-game-of-life">**A Demon In Conway's Game of Life**</a>\*** - (2019) - [**Python, Pytorch, Numpy, Matplotlib, Tkinter**] - Conway’s Game of Life as a highly customizable GUI-based environment for developing and testing artificial intelligence models
 

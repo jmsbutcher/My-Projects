@@ -17,6 +17,7 @@ jmsbutcher1576@gmail.com
 
 - <a href="https://github.com/jmsbutcher/Bayesian-networks-project">**Bayesian Networks Project**</a> - (2020) - [**Python, Pgmpy**] - A project for implementing (1) a Bayesian Network and (2) a Dynamic Bayesian Network
 
+- <a href="https://github.com/jmsbutcher/Neural-Network-for-Collision-Prediction">**Neural Network for Collision Prediction**</a> - (2020) - [**Python, Pytorch, Numpy**] - A virtual robot with a neural network that steers around a virtual environment using supervised learning to predict whether a collision is about to occur or not
 
 
 #### CSE 579 - Knowledge Representation and Reasoning - Spring A 2021:

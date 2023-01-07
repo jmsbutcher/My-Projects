@@ -48,6 +48,8 @@ jmsbutcher1576@gmail.com
 
 - <a href="https://github.com/jmsbutcher/machine-learning-knowledge-base">**Machine Learning Knowledge Base**</a>\*** - (2021) - [**Python, HTML, Javascript, Bootstrap, Flask, RDFlib**] - A web app for managing and accessing my personally-curated collection of machine learning knowledge, encoded as an RDF knowledge graph
 
+- <a href="https://github.com/jmsbutcher/Knowledge-Manager">**Simple Knowledge Manager**</a>\*** - (2022) - [**Python, unittest] - A desktop app for quick recording and retrieving of ideas by managing simple text files
+
 <br>
 
 \*** - These are the large projects whose overall design I created myself. The rest are either small projects or projects that mostly followed a tutorial.

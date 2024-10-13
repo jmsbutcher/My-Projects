@@ -50,6 +50,8 @@ jmsbutcher1576@gmail.com
 
 - <a href="https://github.com/jmsbutcher/Knowledge-Manager">**Simple Knowledge Manager**</a>\*** - (2022) - [**Python, unittest**] - A desktop app for quick recording and retrieving of ideas by managing simple text files - Unit testing and TDD practice
 
+- <a href="https://github.com/jmsbutcher/AWS-RAG-AI-service">**AWS RAG AI service**</a>\- (2022) - [**Python, HTML, Flask, Docker, AWS Bedrock, AWS Lambda**] - An AWS Bedrock chatbot service that answers questions within the context of a knowledge base using natural language.
+
 <br>
 
 \*** - These are the large projects whose overall design I created myself. The rest are either small projects or projects that mostly followed a tutorial.

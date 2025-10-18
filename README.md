@@ -5,13 +5,43 @@ James Butcher
 
 jmsbutcher1576@gmail.com
 
+
+## Personal Projects
+
+- <a href="https://github.com/jmsbutcher/AWS-RAG-AI-service">**AWS RAG AI service**</a>\- (2024) - [**Python, HTML, Flask, Docker, AWS Bedrock, AWS Lambda, DynamoDB**] - An AWS Bedrock chatbot service that answers questions within the context of a knowledge base using natural language.
+
+- <a href="https://github.com/jmsbutcher/Knowledge-Manager">**Simple Knowledge Manager**</a>\*** - (2022) - [**Python, unittest**] - A desktop app for quick recording and retrieving of ideas by managing simple text files - Unit testing and TDD practice
+
+- <a href="https://github.com/jmsbutcher/machine-learning-knowledge-base">**Machine Learning Knowledge Base**</a>\*** - (2021) - [**Python, HTML, Javascript, Bootstrap, Flask, RDFlib**] - A web app for managing and accessing my personally-curated collection of machine learning knowledge, encoded as an RDF knowledge graph
+
+- <a href="https://github.com/jmsbutcher/book-database-alexa-skill">**Book Database Alexa Skill**</a>\*** - (2020) - [**Python, MySQL, AWS RDS, AWS Lambda, Alexa Skill Development Kit**] - An Amazon Alexa skill that manages my own custom MySQL cloud database of books I've read hosted on AWS RDS (Relational Database Service) via verbal commands
+
+- <a href="https://github.com/jmsbutcher/digit_classifier_dropout">**Digit Classifier - Dropout**</a> - (2020) - [**Python, Pytorch, Numpy, Matplotlib, Jupyter Notebook**] - Practice implementing a CNN classifier on the MNIST dataset - test out dropout vs. no dropout
+
+- <a href="https://github.com/jmsbutcher/acronym-extractor">**Acronym Extractor**</a> - (2020) - [**Python**] - A simple python app that extracts all the acronyms and their corresponding meanings from a PDF file and prints them neatly for easy reference while reading
+
+- <a href="https://github.com/jmsbutcher/inflation_predictor">**Inflation Predictor**</a>\*** - (2020) - [**Python, Numpy, Matplotlib, Tkinter, Scikit-learn**] - A Python app that tracks, analyzes, and predicts future trends of ordinary consumer products using machine learning
+
+- <a href="https://github.com/jmsbutcher/A-demon-in-conways-game-of-life">**A Demon In Conway's Game of Life**</a>\*** - (2019) - [**Python, Pytorch, Numpy, Matplotlib, Tkinter**] - Conway’s Game of Life as a highly customizable GUI-based environment for developing and testing artificial intelligence models
+
+- <a href="https://github.com/jmsbutcher/self-driving-car">**Self-Driving Car**</a> - (2019) - [**Python, Pytorch, Numpy, Kivy**] - A deep-reinforcement-learning agent (a simulated car) that learns to drive across a map while avoiding obstacles
+
+- <a href="https://github.com/jmsbutcher/mastermind">**Mastermind**</a> - (2013) - [**Java**] - A text-based recreation of the code-breaking board game Mastermind
+
+<br>
+
+\*** - These are the large projects whose overall design I created myself. The rest are either small projects or projects that mostly followed a tutorial.
+
+
+<br>
+<br>
+
 ## Academic Course Projects
 
-#### CSE 575 - Statistical Machine Learning - Fall A 2020:
+#### CSE 579 - Knowledge Representation and Reasoning - Spring A 2021:
 
-- <a href="https://github.com/jmsbutcher/Naive-Bayes-Digit-Classifier">**Naive Bayes Digit Classifier**</a> - (2020) - [**Python, Numpy, Scipy**] - A Naive Bayes Classifier of Handwritten Digits 0 or 1 based on average pixel brightness and standard deviation
+- <a href="https://github.com/jmsbutcher/ASP-for-Automated-Warehouse-Scenario">**ASP for Automated Warehouse Scenario**</a> - (2021) - [**Clingo**] - An attempted solution to the 2019 ASP challenge: Automated Warehouse Scenario
 
-- <a href="https://github.com/jmsbutcher/K-means-clustering-project">**K-Means Clustering Project**</a> - (2020) - [**Python, Numpy, Matplotlib**] - Course project to implement K-means clustering on a 2D dataset and compare two different initialization strategies
 
 #### CSE 571 - Artificial Intelligence - Fall B 2020:
 
@@ -22,37 +52,10 @@ jmsbutcher1576@gmail.com
 - <a href="https://github.com/jmsbutcher/Tools-for-Sequential-Decision-Making">**Tools for Sequential Decision-Making**</a> - (2020) - [**PDDL**] - Solve a set of planning problems using Planning Domain Definition Language (PDDL)
 
 
-#### CSE 579 - Knowledge Representation and Reasoning - Spring A 2021:
+#### CSE 575 - Statistical Machine Learning - Fall A 2020:
 
-- <a href="https://github.com/jmsbutcher/ASP-for-Automated-Warehouse-Scenario">**ASP for Automated Warehouse Scenario**</a> - (2021) - [**Clingo**] - An attempted solution to the 2019 ASP challenge: Automated Warehouse Scenario
+- <a href="https://github.com/jmsbutcher/Naive-Bayes-Digit-Classifier">**Naive Bayes Digit Classifier**</a> - (2020) - [**Python, Numpy, Scipy**] - A Naive Bayes Classifier of Handwritten Digits 0 or 1 based on average pixel brightness and standard deviation
 
+- <a href="https://github.com/jmsbutcher/K-means-clustering-project">**K-Means Clustering Project**</a> - (2020) - [**Python, Numpy, Matplotlib**] - Course project to implement K-means clustering on a 2D dataset and compare two different initialization strategies
 
-<br>
-<br>
-
-## Personal Projects
-
-- <a href="https://github.com/jmsbutcher/mastermind">**Mastermind**</a> - (2013) - [**Java**] - A text-based recreation of the code-breaking board game Mastermind
-
-- <a href="https://github.com/jmsbutcher/self-driving-car">**Self-Driving Car**</a> - (2019) - [**Python, Pytorch, Numpy, Kivy**] - A deep-reinforcement-learning agent (a simulated car) that learns to drive across a map while avoiding obstacles
-
-- <a href="https://github.com/jmsbutcher/A-demon-in-conways-game-of-life">**A Demon In Conway's Game of Life**</a>\*** - (2019) - [**Python, Pytorch, Numpy, Matplotlib, Tkinter**] - Conway’s Game of Life as a highly customizable GUI-based environment for developing and testing artificial intelligence models
-
-- <a href="https://github.com/jmsbutcher/inflation_predictor">**Inflation Predictor**</a>\*** - (2020) - [**Python, Numpy, Matplotlib, Tkinter, Scikit-learn**] - A Python app that tracks, analyzes, and predicts future trends of ordinary consumer products using machine learning
-
-- <a href="https://github.com/jmsbutcher/acronym-extractor">**Acronym Extractor**</a> - (2020) - [**Python**] - A simple python app that extracts all the acronyms and their corresponding meanings from a PDF file and prints them neatly for easy reference while reading
-
-- <a href="https://github.com/jmsbutcher/digit_classifier_dropout">**Digit Classifier - Dropout**</a> - (2020) - [**Python, Pytorch, Numpy, Matplotlib, Jupyter Notebook**] - Practice implementing a CNN classifier on the MNIST dataset - test out dropout vs. no dropout
-
-- <a href="https://github.com/jmsbutcher/book-database-alexa-skill">**Book Database Alexa Skill**</a>\*** - (2020) - [**Python, MySQL, AWS RDS, AWS Lambda, Alexa Skill Development Kit**] - An Amazon Alexa skill that manages my own custom MySQL cloud database of books I've read hosted on AWS RDS (Relational Database Service) via verbal commands
-
-- <a href="https://github.com/jmsbutcher/machine-learning-knowledge-base">**Machine Learning Knowledge Base**</a>\*** - (2021) - [**Python, HTML, Javascript, Bootstrap, Flask, RDFlib**] - A web app for managing and accessing my personally-curated collection of machine learning knowledge, encoded as an RDF knowledge graph
-
-- <a href="https://github.com/jmsbutcher/Knowledge-Manager">**Simple Knowledge Manager**</a>\*** - (2022) - [**Python, unittest**] - A desktop app for quick recording and retrieving of ideas by managing simple text files - Unit testing and TDD practice
-
-- <a href="https://github.com/jmsbutcher/AWS-RAG-AI-service">**AWS RAG AI service**</a>\- (2024) - [**Python, HTML, Flask, Docker, AWS Bedrock, AWS Lambda, DynamoDB**] - An AWS Bedrock chatbot service that answers questions within the context of a knowledge base using natural language.
-
-<br>
-
-\*** - These are the large projects whose overall design I created myself. The rest are either small projects or projects that mostly followed a tutorial.
 

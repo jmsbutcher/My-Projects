@@ -8,6 +8,8 @@ jmsbutcher1576@gmail.com
 
 ## Personal Projects
 
+- <a href="https://github.com/jmsbutcher/healthbot">**Healthbot**</a>\- (2025) - [**Python, LangChain/LangGraph, Tavily web search, pytest**] - An interactive AI chatbot that helps you learn about healh topics
+
 - <a href="https://github.com/jmsbutcher/AWS-RAG-AI-service">**AWS RAG AI service**</a>\- (2024) - [**Python, HTML, Flask, Docker, AWS Bedrock, AWS Lambda, DynamoDB**] - An AWS Bedrock chatbot service that answers questions within the context of a knowledge base using natural language.
 
 - <a href="https://github.com/jmsbutcher/Knowledge-Manager">**Simple Knowledge Manager**</a>\*** - (2022) - [**Python, unittest**] - A desktop app for quick recording and retrieving of ideas by managing simple text files - Unit testing and TDD practice
